@@ -13,4 +13,13 @@ Input Format
 
 Output Format
 
-    Print longest common substring. 
+    Print longest common substring.
+
+<br/>
+
+Example
+
+    Input:      3
+                wbbbm rtabbram matbbbde
+
+    Output:     bb
