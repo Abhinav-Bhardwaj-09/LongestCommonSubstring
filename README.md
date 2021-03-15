@@ -11,3 +11,6 @@ Input Format
     First Line contains single integer, n. 
     Next line contain n strings.
 
+Output Format
+
+    Print longest common substring. 
